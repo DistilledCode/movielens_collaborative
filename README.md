@@ -1,5 +1,5 @@
-* Run `train.ipynb`notebook to train the model. It has been already trained and the model is saved in `./model/`
-* Use `inference.ipynb` notebook  for predicting ratings.
+* Run `./code/train.ipynb`notebook to train the model. It has been already trained and the model is saved in `./model/`
+* Use `./code/inference.ipynb` notebook  for predicting ratings.
 * The user-item interaction matrix and train-test split data is saved in `./parquet/`
 
 
